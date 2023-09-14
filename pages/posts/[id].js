@@ -12,7 +12,7 @@ export default function Post({ postData }) {
         <meta name="description" content={postData.description} />
         <meta property="og:title" content={postData.title} />
         <meta property="og:description" content={postData.description} />
-        <meta property="og:image" content={postData.image} />
+        <meta property="og:image" content={postData.socialImage} />
       </Head>
       <article>
         <h1 className={utilStyles.headingXl}>{postData.title}</h1>
