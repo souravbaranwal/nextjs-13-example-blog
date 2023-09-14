@@ -1,6 +1,8 @@
 ---
 title: "Two Forms of Pre-rendering"
+description: "Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page."
 date: "2020-01-01"
+socialImage: "../public/images/button-ui.png"
 ---
 
 Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
