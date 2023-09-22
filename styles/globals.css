@@ -25,3 +25,9 @@ img {
   max-width: 100%;
   display: block;
 }
+.token.entity, .token.operator, .token.url, .token.variable{
+  background: none;
+}
+.language-javascript {
+  border-left: 0px !important;
+}
